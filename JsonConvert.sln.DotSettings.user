@@ -1,0 +1,14 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=161b94b1_002D8b8a_002D4a8e_002Dacc5_002D60ab687786c4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CustomContractResolver" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;NUnit3x::369EE693-8AA2-4B3A-9D21-20F1B96F5F81::net6.0::JsonConvert.PrivateResolverTests&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::369EE693-8AA2-4B3A-9D21-20F1B96F5F81::net6.0::BasicExamplesTests&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::369EE693-8AA2-4B3A-9D21-20F1B96F5F81::net6.0::JsonConvert.MicrosoftBasicExamples&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::369EE693-8AA2-4B3A-9D21-20F1B96F5F81::net6.0::NewtonsoftBasicExamplesTests&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::369EE693-8AA2-4B3A-9D21-20F1B96F5F81::net6.0::JsonConvert.CustomDeserializers.PersonDetailsJsonConverter2Tests&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::369EE693-8AA2-4B3A-9D21-20F1B96F5F81::net6.0::JsonConvert.CustomDeserializers.PersonDetailsJsonConverterTests&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+    &lt;ProjectFile&gt;369EE693-8AA2-4B3A-9D21-20F1B96F5F81/f:NewtonsoftBasicExamplesTests.cs&lt;/ProjectFile&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
